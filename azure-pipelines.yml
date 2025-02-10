@@ -3,11 +3,6 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
-variables:
-  HTTP_PROXY: 'http://10.31.255.65:8080'
-  HTTPS_PROXY: 'https://10.31.255.65:8080'
-  NO_PROXY: 'localhost,127.0.0.1'
-
 trigger:
 - master
 
