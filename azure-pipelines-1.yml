@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'f991dabd-5352-4a61-9918-b3bc5ba8fb8a'
 
   # Web app name
-  webAppName: 'ASP-Flatrisgroup-a760'
+  webAppName: 'Flatris'
 
   # Environment name
   environmentName: 'production'
