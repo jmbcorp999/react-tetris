@@ -68,4 +68,3 @@ stages:
               InlineScript: |
                 npm install --no-optional
                 npm run build --if-present
-                npm start
